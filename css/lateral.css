@@ -1,0 +1,142 @@
+#lateral{
+	width: 497px;
+	color: #fff;
+	padding: .5rem;
+}
+#letraUpdate{
+	position: absolute;
+	top: .5rem;
+	right: .5rem;
+	letter-spacing: 2px;
+	width: 32px;
+	height: 32px;
+}
+#info input[type="text"],
+#spanish input[type="text"],
+#english input[type="text"]
+{
+	width: 100%;
+	padding: .5rem;
+	letter-spacing: 1px;
+}
+#info button,
+#spanish button,
+#english button
+{
+	padding: .5rem;
+}
+.nav-tabs .nav-link.active {
+	background: #000;
+	color: #fff;
+}
+#contenidoPestana{
+	border:1px solid #ccc; 
+}
+#archivo{
+	width: 100%;
+}
+#letra{
+	width: 100%;
+}
+#etiqueta{
+	width: 100%;
+	display: flex;
+}
+#cancion{
+	width: 50%;
+	display: flex;
+}
+#cancionInput{
+}
+#setCancion{
+}
+#autor{
+	width: 50%;
+	display: flex;
+}
+#autorInput{
+}
+#setAutor{
+}
+#lineaListaSPA,
+#lineaListaENG{
+	width: 100%;
+}
+#lineasSPA,
+#lineasENG{
+	width: 100%;
+}
+#lineasSPA option,
+#lineasENG option{
+	padding: .5rem;
+	font-weight: bold;
+}
+#lineaSPA #colorTextoSPA,
+#lineaENG #colorTextoENG,
+#lineaSPA #colorTextoSombraSPA,
+#lineaENG #colorTextoSombraENG
+{
+	padding: 2px;
+	width: 32px;
+	height: auto;
+}
+#lineaSPA,
+#lineaENG{
+	width: 100%;
+	display: flex;
+}
+#barraLetraSPA,
+#barraLetraENG{
+	display: flex;
+}
+#barraLetraSPA button,
+#barraLetraENG button{
+	padding: .5rem 1.06rem;
+}
+#lineInSPA, #lineOutSPA,
+#lineInENG, #lineOutENG{
+	display: flex;
+}
+#lineaInputSPA,
+#lineaInputENG{
+	flex:auto;
+}
+
+#lente{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+#lente input{
+	width: 105px;
+}
+#lente button
+{
+	padding: .5rem;
+}
+#control{
+	width: 100%;
+}
+#pista{
+	width: 100%;
+	height: 50px;
+}
+
+
+
+
+/*
+
+
+/*#utilidad{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#rotacion{
+	width: 100%;
+}
+#rotacionB{
+	width: 100%;
+}*/

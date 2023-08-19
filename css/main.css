@@ -1,0 +1,20 @@
+@import 'display.css';
+@import 'control.css';
+@import 'central.css';
+@import 'lateral.css';
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: #000;
+}
+#contenedor{
+	display: flex;
+	flex-wrap: wrap;
+}
+.inlineControl{
+	display: flex;
+}
