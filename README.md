@@ -1,7 +1,7 @@
 # TrackVisualizer
 Esta es una aplicación web de karaoke que permite a los usuarios cargar una pista de audio, una letra de canción con marca de tiempo y visualizar la letra de la canción sincronizada con la reproducción de audio, asi mismo como editarla y sincronizarla con precision con la cancion de fondo. 
 
-<img src="https://i.ibb.co/g3DTY5V/Captura-de-pantalla-2023-08-26-182519.png">
+https://main--trackvisualizer.netlify.app/
 
 ## Caracteristicas principales
 - La interfaz de usuario consta de varios elementos HTML, como campos de entrada, botones y visualizadores, que permiten al usuario interactuar con la aplicación.
